@@ -21,8 +21,8 @@ public class ChangeDP {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int m = scanner.nextInt();
-        System.out.println(getChange(m));
+        int input = scanner.nextInt();
+        System.out.println(getChange(input));
 
     }
 }
